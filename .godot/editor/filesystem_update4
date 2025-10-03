@@ -1,4 +1,7 @@
-res://main.tscn
+res://egg_box.tscn
+res://egg_box.gd
 res://main.gd
 res://player.gd
+res://main.tscn
 res://player.tscn
+res://mob.tscn

@@ -1,4 +1,5 @@
-res://hud.tscn::3102cd5de6cb446a68f256dd39d54783::1758738623::res://.godot/exported/133200997/export-f4cf891e5f7a93b93d9b27cfb8401ccb-hud.scn
-res://main.tscn::f2097b404d6fc115d8592dba576a5961::1758739871::res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
-res://mob.tscn::787f4052128f1a569a46042c8a0179be::1758738623::res://.godot/exported/133200997/export-5b94865898bd9b5cb44e426bf42f6f48-mob.scn
-res://player.tscn::14d010baecfb3136c5c627125ad4b06e::1758738623::res://.godot/exported/133200997/export-36a25e342948d0ceacc500772b5412b3-player.scn
+res://hud.tscn::c0b58bb1e945c020d2fab804373704cb::1759345448::res://.godot/exported/133200997/export-f4cf891e5f7a93b93d9b27cfb8401ccb-hud.scn
+res://main.tscn::e8b7fb4e02686425d41017bd441fd9b9::1759523439::res://.godot/exported/133200997/export-3070c538c03ee49b7677ff960a3f5195-main.scn
+res://mob.tscn::645f9e958f20a427fd8c76857c3ff197::1759524304::res://.godot/exported/133200997/export-5b94865898bd9b5cb44e426bf42f6f48-mob.scn
+res://player.tscn::07f042c07e1d9a810fbbf5d292e78f86::1759524786::res://.godot/exported/133200997/export-36a25e342948d0ceacc500772b5412b3-player.scn
+res://egg_box.tscn::9a50458edd49a6bd7550484814f323da::1759524305::res://.godot/exported/133200997/export-2726e2887300bbda1ab0844326e6b9f9-egg_box.scn
